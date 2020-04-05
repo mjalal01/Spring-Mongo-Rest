@@ -1,4 +1,4 @@
-package com.mehdiyevcs.com.mehdiyevcs.repository;
+package com.mehdiyevcs.repository;
 
 import com.mehdiyevcs.model.Laptop;
 import org.springframework.data.mongodb.repository.MongoRepository;

@@ -1,6 +1,6 @@
 package com.mehdiyevcs.services;
 
-import com.mehdiyevcs.com.mehdiyevcs.repository.LaptopRepo;
+import com.mehdiyevcs.repository.LaptopRepo;
 import com.mehdiyevcs.model.Laptop;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
